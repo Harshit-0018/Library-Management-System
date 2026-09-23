@@ -1,0 +1,56 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+
+### Eclipse ###
+.metadata
+.settings/
+.classpath
+.project
+
+### macOS ###
+.DS_Store
+
+### Windows ###
+Thumbs.db
+
+### Environment / secrets ###
+.env
+*.env.local
+
+### Logs ###
+*.log
+logs/
+
+### Docker ###
+# (compose data volumes are managed by Docker itself, nothing to ignore here)
