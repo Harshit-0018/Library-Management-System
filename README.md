@@ -6,17 +6,6 @@ The project demonstrates a clean layered backend architecture and an event-drive
 
 ---
 
-## GitHub About
-
-**Suggested repository description:**
-
-> Backend Library Management System built with Java 21 & Spring Boot, PostgreSQL/JPA, Kafka, REST APIs, validation, centralized exception handling, and Docker Compose.
-
-**Suggested GitHub topics:**
-
-`java` `spring-boot` `postgresql` `jpa` `hibernate` `kafka` `rest-api` `docker` `maven` `backend` `event-driven-architecture` `library-management-system`
-
----
 
 ## Table of Contents
 
